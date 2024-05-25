@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tasks.Request4SuspendKtTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-25T14:56:25" hostname="LAPTOP-EM849TNM" time="0.412">
+  <properties/>
+  <testcase name="testSuspend" classname="tasks.Request4SuspendKtTest" time="0.412"/>
+  <system-out><![CDATA[173 [Test worker @coroutine#1] INFO  Contributors - org: loaded 3 repos
+177 [Test worker @coroutine#1] INFO  Contributors - repo-1: loaded 2 contributors
+178 [Test worker @coroutine#1] INFO  Contributors - repo-2: loaded 2 contributors
+178 [Test worker @coroutine#1] INFO  Contributors - repo-3: loaded 2 contributors
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

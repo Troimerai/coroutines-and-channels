@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tasks.Request3CallbacksKtTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-25T14:56:26" hostname="LAPTOP-EM849TNM" time="0.002">
+  <properties/>
+  <testcase name="testDataIsLoaded" classname="tasks.Request3CallbacksKtTest" time="0.002"/>
+  <system-out><![CDATA[1225 [Test worker] INFO  Contributors - org: loaded 3 repos
+1225 [Test worker] INFO  Contributors - repo-1: loaded 2 contributors
+1226 [Test worker] INFO  Contributors - repo-2: loaded 2 contributors
+1226 [Test worker] INFO  Contributors - repo-3: loaded 2 contributors
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tasks.Request6ProgressKtTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-25T14:56:25" hostname="LAPTOP-EM849TNM" time="0.005">
+  <properties/>
+  <testcase name="testProgress" classname="tasks.Request6ProgressKtTest" time="0.005"/>
+  <system-out><![CDATA[192 [Test worker @coroutine#2] INFO  Contributors - org: loaded 3 repos
+193 [Test worker @coroutine#2] INFO  Contributors - repo-1: loaded 2 contributors
+194 [Test worker @coroutine#2] INFO  Contributors - repo-2: loaded 2 contributors
+195 [Test worker @coroutine#2] INFO  Contributors - repo-3: loaded 2 contributors
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

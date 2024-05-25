@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coroutines_and_channels.iml" filepath="$PROJECT_DIR$/.idea/modules/Coroutines_and_channels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Before you start/Course structure/Coroutines_and_channels.Before_you_start-Course_structure.iml" filepath="$PROJECT_DIR$/.idea/modules/Before you start/Course structure/Coroutines_and_channels.Before_you_start-Course_structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Before you start/Course structure/Coroutines_and_channels.Before_you_start-Course_structure.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Before you start/Course structure/Coroutines_and_channels.Before_you_start-Course_structure.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Before you start/Course structure/Coroutines_and_channels.Before_you_start-Course_structure.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Before you start/Course structure/Coroutines_and_channels.Before_you_start-Course_structure.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Before you start/Getting to know you/Coroutines_and_channels.Before_you_start-Getting_to_know_you.iml" filepath="$PROJECT_DIR$/.idea/modules/Before you start/Getting to know you/Coroutines_and_channels.Before_you_start-Getting_to_know_you.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Before you start/Getting to know you/Coroutines_and_channels.Before_you_start-Getting_to_know_you.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Before you start/Getting to know you/Coroutines_and_channels.Before_you_start-Getting_to_know_you.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Before you start/Getting to know you/Coroutines_and_channels.Before_you_start-Getting_to_know_you.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Before you start/Getting to know you/Coroutines_and_channels.Before_you_start-Getting_to_know_you.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Before you start/GitHub developer token/Coroutines_and_channels.Before_you_start-GitHub_developer_token.iml" filepath="$PROJECT_DIR$/.idea/modules/Before you start/GitHub developer token/Coroutines_and_channels.Before_you_start-GitHub_developer_token.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Before you start/GitHub developer token/Coroutines_and_channels.Before_you_start-GitHub_developer_token.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Before you start/GitHub developer token/Coroutines_and_channels.Before_you_start-GitHub_developer_token.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Before you start/GitHub developer token/Coroutines_and_channels.Before_you_start-GitHub_developer_token.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Before you start/GitHub developer token/Coroutines_and_channels.Before_you_start-GitHub_developer_token.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coroutines/task/Coroutines_and_channels.Coroutines-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Coroutines/task/Coroutines_and_channels.Coroutines-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coroutines/task/Coroutines_and_channels.Coroutines-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Coroutines/task/Coroutines_and_channels.Coroutines-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coroutines/task/Coroutines_and_channels.Coroutines-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Coroutines/task/Coroutines_and_channels.Coroutines-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Feedback survey/Feedback survey/Coroutines_and_channels.Feedback_survey-Feedback_survey.iml" filepath="$PROJECT_DIR$/.idea/modules/Feedback survey/Feedback survey/Coroutines_and_channels.Feedback_survey-Feedback_survey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Feedback survey/Feedback survey/Coroutines_and_channels.Feedback_survey-Feedback_survey.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Feedback survey/Feedback survey/Coroutines_and_channels.Feedback_survey-Feedback_survey.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Feedback survey/Feedback survey/Coroutines_and_channels.Feedback_survey-Feedback_survey.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Feedback survey/Feedback survey/Coroutines_and_channels.Feedback_survey-Feedback_survey.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coroutines_and_channels.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coroutines_and_channels.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coroutines_and_channels.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coroutines_and_channels.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Coroutines_and_channels.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Coroutines_and_channels.util.test.iml" />
+    </modules>
+  </component>
+</project>

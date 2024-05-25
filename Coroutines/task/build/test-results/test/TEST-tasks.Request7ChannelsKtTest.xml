@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tasks.Request7ChannelsKtTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-25T14:56:25" hostname="LAPTOP-EM849TNM" time="0.01">
+  <properties/>
+  <testcase name="testChannels" classname="tasks.Request7ChannelsKtTest" time="0.01"/>
+  <system-out><![CDATA[199 [Test worker @coroutine#3] INFO  Contributors - org: loaded 3 repos
+205 [Test worker @coroutine#6] INFO  Contributors - repo-3: loaded 2 contributors
+205 [Test worker @coroutine#4] INFO  Contributors - repo-1: loaded 2 contributors
+206 [Test worker @coroutine#5] INFO  Contributors - repo-2: loaded 2 contributors
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
